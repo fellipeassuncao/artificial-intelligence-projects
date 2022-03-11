@@ -1,8 +1,5 @@
 # Data Science Project
-## Project 1 - Data Science Salary Estimator
 
-## Project 2 - Ball Image Classifier
+## Project 1 - Breast Cancer Classification (Cancer Dataset)
 
-## Project 3 - Breast Cancer Classification
-
-## Project 4 - Handwritten Digit Classification
+## Project 2 - Handwritten Digit Classification (Mnist Dataset)
