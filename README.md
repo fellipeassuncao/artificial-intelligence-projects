@@ -35,15 +35,11 @@ This is a widely used classification example and can be considered a "solved" pr
 
 ## [Fake News Detector (Fake News Dataset)]()
 
-In this practice we will classify a text from classification algorithms based on Recurrent Neural Networks (RNN), specifically Long Short Term Memory (LSTM). 
-
 We can classify texts using Natural Language Processing and different Classification Algorithms based on Deep Learning such as LSTMs and CNNs.
-
-There are many classic classification algorithms like Decision Trees, Random Forest, SVM which can do a good job, but sometimes is a good idea use Deep Learning algorithms like LSTM.
 
 A good reason to use the LSTM is that it is effective at memorizing important information. If we look at other non-neural network classification techniques, they are trained on multiple words as separate inputs which are just words with no real meaning like a sentence, and predicting the class will give the output according to statistics and not according to the meaning. This means that each word is classified into one of the categories.
 
-This occurs differently in LSTM. In LSTM, we can use a multi-word string to find out which class it belongs to. This is very useful when working with Natural Language Processing. If we use proper layers of embedding and encoding in LSTM, the model will be able to figure out the real meaning in the input string and provide the most accurate output class. The following code will elaborate on the idea of how text classification is done using LSTM.
+In LSTM, we can use a multi-word string to find out which class it belongs to. This is very useful when working with Natural Language Processing. If we use proper layers of embedding and encoding in LSTM, the model will be able to figure out the real meaning in the input string and provide the most accurate output class. The following code will elaborate on the idea of how text classification is done using LSTM.
 
 ## [Review Text Classification (Amazon Review Dataset)]()
 
@@ -53,13 +49,7 @@ This can be done with the help of Natural Language Processing and different Clas
 
 ## [Word Cloud (Top Android Games Dataset)]()
 
-Word Cloud or Tag Clouds is a technique of visualizing texts that are used natively to visualize the tags or keywords of the websites. Below, we report some features:
-- Each word in this cloud has a variable font size and color tone. Thus, this representation helps to determine highlight words.
-- A larger font size of a word portrays its prominence more relative to other words in the cluster.
-- Word Cloud can be built in various shapes and sizes based on the creators' vision.
-- The number of words plays an important role when creating a word cloud.
-- A greater number of words does not always mean a better word cloud, as it becomes confusing and difficult to read.
-- A Word Cloud must always be semantically meaningful and must represent what it is intended for.
+Word Cloud is an electronic image that shows words used in a particular piece of electronic text or series of texts. The words are different sizes according to how often they are used in the text. 
 
 ## [Analise and Data Visualization]()
 
