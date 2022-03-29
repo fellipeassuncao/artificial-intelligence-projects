@@ -1,5 +1,11 @@
 # Data Science Projects
 
+The objective of Data Science is to extract insights from raw data to assist in the decision-making of managers in an organization.
+
+Among the methodologies used to conduct the work of a Data Scientist, Machine Learning, Data Mining, Storytelling from data and Data Preparation are used.
+
+It is worth considering some important steps such as understanding the business, understanding and preparing the data, modeling and evaluation and, from that, transforming the insights into actions.
+
 In this repository we have a set of projects related to Data Science that have as inputs, images and texts.
 
 Among the algorithms used, we can highlight the Machine Learnign classification algorithms, such as SVM (Support Vector Machine), Naive Bayes and Random Forest.
