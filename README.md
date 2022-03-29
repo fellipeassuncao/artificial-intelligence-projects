@@ -23,7 +23,7 @@ In this project, we created a new approach to segmentation of pressure ulcer ima
 
 Within the languages and tools that I have been working with, I have adapted a Java program that offers a pipeline for the entire process that uses, among others, the OPENCV library and other computer vision resources. In addition, we use languages such as Matlab and Python to include new methods in the program's pipeline.
 
-## [Handcrafted Features and Deep Features for Image Classification (Caltech 101 Dataset)]()
+## [Handcrafted Features and Deep Features for Image Classification (Caltech 101 Dataset)](https://github.com/fellipeassuncao/data-science-projects/tree/main/handcrafted-deep-features)
 
 Recognition of objects from the extraction of color features, associated with the penultimate layer of a CNN such as (Resnet50, VGG16 and VGG19). The results showed that the fusion of color descriptors with the second-to-last layer of CNN does not contribute to the increase in accuracy. Thus, CNNs perform well in the process of feature extraction and object recognition.
 
