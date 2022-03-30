@@ -51,17 +51,17 @@ A good reason to use the LSTM is that it is effective at memorizing important in
 
 In LSTM, we can use a multi-word string to find out which class it belongs to. This is very useful when working with Natural Language Processing. If we use proper layers of embedding and encoding in LSTM, the model will be able to figure out the real meaning in the input string and provide the most accurate output class. The following code will elaborate on the idea of how text classification is done using LSTM.
 
-## [Review Text Classification (Amazon Review Dataset)](https://github.com/fellipeassuncao/data-science-projects/blob/main/review-classification/CLASSIFICA%C3%87%C3%83O_DE_TEXTO_USANDO_MACHINE_LEARNING.ipynb)
+### [Review Text Classification (Amazon Review Dataset)](https://github.com/fellipeassuncao/data-science-projects/blob/main/review-classification/CLASSIFICA%C3%87%C3%83O_DE_TEXTO_USANDO_MACHINE_LEARNING.ipynb)
 
 Text Classification is an automated process of classifying into predefined categories. We can classify emails into spam or non-spam, news articles into different categories like politics, stock market, sports, etc.
 
 This can be done with the help of Natural Language Processing and different Classification Algorithms like Naive Bayes, SVM and even Neural Networks in Python.
 
-## [Word Cloud (Top Android Games Dataset)](https://github.com/fellipeassuncao/data-science-projects/blob/main/wordcloud/WORD_CLOUD.ipynb)
+### [Word Cloud (Top Android Games Dataset)](https://github.com/fellipeassuncao/data-science-projects/blob/main/wordcloud/WORD_CLOUD.ipynb)
 
 Word Cloud is an electronic image that shows words used in a particular piece of electronic text or series of texts. The words are different sizes according to how often they are used in the text. 
 
-## [Analise and Data Visualization](https://github.com/fellipeassuncao/data-science-projects/blob/main/data-analise/ANALISE_E_VISUALIZA%C3%87%C3%83O_DOS_DADOS.ipynb)
+### [Analise and Data Visualization](https://github.com/fellipeassuncao/data-science-projects/blob/main/data-analise/ANALISE_E_VISUALIZA%C3%87%C3%83O_DOS_DADOS.ipynb)
 
 In this project, I work with an example of data analysis and visualization based on a government database. To exemplify the use of the main Python libraries such as Pandas and Numpy, I elaborated some cases in which we can retrieve and manipulate data in a dataframe and use visualization features with MatplotLib.
 
